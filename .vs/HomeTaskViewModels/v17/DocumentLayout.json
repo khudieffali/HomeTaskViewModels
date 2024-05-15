@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|d:\\praktikant\\garagetask\\hometaskviewmodels\\hometaskviewmodels\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|solutionrelative:hometaskviewmodels\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|d:\\praktikant\\garagetask\\hometaskviewmodels\\hometaskviewmodels\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|solutionrelative:hometaskviewmodels\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "HomeTaskViewModels\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "HomeTaskViewModels\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T21:36:09.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HomeTaskViewModels\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HomeTaskViewModels\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T21:34:29.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
