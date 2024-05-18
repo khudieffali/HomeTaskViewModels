@@ -3,12 +3,64 @@
   "WorkspaceRootPath": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|d:\\praktikant\\garagetask\\hometaskviewmodels\\hometaskviewmodels\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|solutionrelative:hometaskviewmodels\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|d:\\praktikant\\garagetask\\hometaskviewmodels\\hometaskviewmodels\\migrations\\20240518225441_created_viewmodeldb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|solutionrelative:hometaskviewmodels\\migrations\\20240518225441_created_viewmodeldb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|d:\\praktikant\\garagetask\\hometaskviewmodels\\hometaskviewmodels\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|d:\\praktikant\\garagetask\\hometaskviewmodels\\hometaskviewmodels\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|solutionrelative:hometaskviewmodels\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|d:\\praktikant\\garagetask\\hometaskviewmodels\\hometaskviewmodels\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|solutionrelative:hometaskviewmodels\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|d:\\praktikant\\garagetask\\hometaskviewmodels\\hometaskviewmodels\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|solutionrelative:hometaskviewmodels\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|d:\\praktikant\\garagetask\\hometaskviewmodels\\hometaskviewmodels\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|solutionrelative:hometaskviewmodels\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|d:\\praktikant\\garagetask\\hometaskviewmodels\\hometaskviewmodels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|solutionrelative:hometaskviewmodels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|d:\\praktikant\\garagetask\\hometaskviewmodels\\hometaskviewmodels\\models\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|solutionrelative:hometaskviewmodels\\models\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|d:\\praktikant\\garagetask\\hometaskviewmodels\\hometaskviewmodels\\models\\dataaccess\\viewdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|solutionrelative:hometaskviewmodels\\models\\dataaccess\\viewdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|d:\\praktikant\\garagetask\\hometaskviewmodels\\hometaskviewmodels\\models\\features.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|solutionrelative:hometaskviewmodels\\models\\features.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|d:\\praktikant\\garagetask\\hometaskviewmodels\\hometaskviewmodels\\models\\specifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|solutionrelative:hometaskviewmodels\\models\\specifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|d:\\praktikant\\garagetask\\hometaskviewmodels\\hometaskviewmodels\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|solutionrelative:hometaskviewmodels\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|d:\\praktikant\\garagetask\\hometaskviewmodels\\hometaskviewmodels\\models\\productstospecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|solutionrelative:hometaskviewmodels\\models\\productstospecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|d:\\praktikant\\garagetask\\hometaskviewmodels\\hometaskviewmodels\\models\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|solutionrelative:hometaskviewmodels\\models\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\hometaskviewmodels\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|solutionrelative:hometaskviewmodels\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\hometaskviewmodels\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{215CD743-4414-4E1C-8B4C-5628C060D156}|HomeTaskViewModels\\HomeTaskViewModels.csproj|solutionrelative:hometaskviewmodels\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,19 +75,188 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HomeTaskViewModels\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HomeTaskViewModels\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T23:00:44.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240518225441_created_ViewModelDB.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Migrations\\20240518225441_created_ViewModelDB.cs",
+              "RelativeDocumentMoniker": "HomeTaskViewModels\\Migrations\\20240518225441_created_ViewModelDB.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Migrations\\20240518225441_created_ViewModelDB.cs",
+              "RelativeToolTip": "HomeTaskViewModels\\Migrations\\20240518225441_created_ViewModelDB.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAuwJMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:54:41.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Specifications.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Models\\Specifications.cs",
+              "RelativeDocumentMoniker": "HomeTaskViewModels\\Models\\Specifications.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Models\\Specifications.cs",
+              "RelativeToolTip": "HomeTaskViewModels\\Models\\Specifications.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:40:02.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "HomeTaskViewModels\\Models\\Slider.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Models\\Slider.cs",
+              "RelativeToolTip": "HomeTaskViewModels\\Models\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:40:00.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsToSpecification.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Models\\ProductsToSpecification.cs",
+              "RelativeDocumentMoniker": "HomeTaskViewModels\\Models\\ProductsToSpecification.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Models\\ProductsToSpecification.cs",
+              "RelativeToolTip": "HomeTaskViewModels\\Models\\ProductsToSpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:39:25.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "HomeTaskViewModels\\Models\\Products.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Models\\Products.cs",
+              "RelativeToolTip": "HomeTaskViewModels\\Models\\Products.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:39:12.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Features.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Models\\Features.cs",
+              "RelativeDocumentMoniker": "HomeTaskViewModels\\Models\\Features.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Models\\Features.cs",
+              "RelativeToolTip": "HomeTaskViewModels\\Models\\Features.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:39:09.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contacts.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Models\\Contacts.cs",
+              "RelativeDocumentMoniker": "HomeTaskViewModels\\Models\\Contacts.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Models\\Contacts.cs",
+              "RelativeToolTip": "HomeTaskViewModels\\Models\\Contacts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:39:05.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Models\\Categories.cs",
+              "RelativeDocumentMoniker": "HomeTaskViewModels\\Models\\Categories.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Models\\Categories.cs",
+              "RelativeToolTip": "HomeTaskViewModels\\Models\\Categories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:39:04.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewDbContext.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Models\\DataAccess\\ViewDbContext.cs",
+              "RelativeDocumentMoniker": "HomeTaskViewModels\\Models\\DataAccess\\ViewDbContext.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Models\\DataAccess\\ViewDbContext.cs",
+              "RelativeToolTip": "HomeTaskViewModels\\Models\\DataAccess\\ViewDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:33:02.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\appsettings.json",
+              "RelativeDocumentMoniker": "HomeTaskViewModels\\appsettings.json",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\appsettings.json",
+              "RelativeToolTip": "HomeTaskViewModels\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T20:30:29.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Program.cs",
+              "RelativeDocumentMoniker": "HomeTaskViewModels\\Program.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Program.cs",
+              "RelativeToolTip": "HomeTaskViewModels\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:23:38.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Models\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "HomeTaskViewModels\\Models\\ViewModels\\HomeVM.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Models\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "HomeTaskViewModels\\Models\\ViewModels\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:50:24.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "HomeTaskViewModels\\Views\\_ViewImports.cshtml",
               "ToolTip": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "HomeTaskViewModels\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-15T21:36:09.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Praktikant\\GarageTask\\HomeTaskViewModels\\HomeTaskViewModels\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "HomeTaskViewModels\\Views\\Shared\\_Layout.cshtml",

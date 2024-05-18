@@ -14,6 +14,7 @@ namespace HomeTaskViewModels.Models
         public int Raiting { get; set; }
         public int ViewCount { get; set; }
         public int CategoryId { get; set; }
+        public Categories? Categories { get; set; }
 
     }
 }
